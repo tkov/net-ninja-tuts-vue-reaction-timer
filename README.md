@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Hosted on Firebase
+<https://reaction-timer-a9cbc.web.app>
